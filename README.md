@@ -12,4 +12,6 @@ b) Responsivo (Bootstrap)
 c) Boa Documentação
 
 d) Integração com o Framework Flask
+
+
 Fonte: https://github.com/app-generator/flask-dashboard-adminlte
